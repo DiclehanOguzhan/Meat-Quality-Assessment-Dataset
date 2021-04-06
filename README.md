@@ -18,13 +18,6 @@ was published in ASYU 2019.
 
 * Paper : [Meat Quality Assessment based on Deep Learning](https://ieeexplore.ieee.org/abstract/document/8946388)
 
-The dataset includes gilt head bream, red sea bream, sea bass, red mullet, horse mackerel,
-black sea sprat, striped red mullet, trout, shrimp image samples.
-
-This dataset was collected in order to carry out segmentation, feature extraction, and classification tasks
-and compare the common segmentation, feature extraction, and classification algorithms (Semantic Segmentation, Convolutional Neural Networks, Bag of Features).
-All of the experiment results prove the usability of our dataset for purposes mentioned above.
-
 If you use this dataset in your work, please consider to cite:
 
 ```
